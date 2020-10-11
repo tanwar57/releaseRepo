@@ -1,3 +1,3 @@
 Write-Host "Cloning All Repositories"
 
-git clone https://github.com/tanwar57/branchingtechnics.git
+git -C C:\Scripts\newDir clone https://github.com/tanwar57/branchingtechnics.git
